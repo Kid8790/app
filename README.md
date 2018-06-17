@@ -1,4 +1,4 @@
 # app
 xvideos app
 
-dns-start https|api.com|103.81.170.80 dns-end
+dns-start https|api.com|116.89.251.206 dns-end
